@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="Logo homelab" width="120">
 </p>
 
-<h1 align="center">glance-config</h1>
+<h1 align="center">Homelab-bot</h1>
 
 <p align="center">
   Configuration de mon <a href="https://discord.com/developers/applications">bot Discord</a> pour un homelab Proxmox.
