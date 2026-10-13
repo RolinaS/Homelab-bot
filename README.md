@@ -1,4 +1,14 @@
-# Homelab-bot
+<p align="center">
+  <img src="assets/logo.png" alt="Logo homelab" width="120">
+</p>
+
+<h1 align="center">glance-config</h1>
+
+<p align="center">
+  Configuration de mon <a href="https://discord.com/developers/applications">bot Discord</a> pour un homelab Proxmox.
+</p>
+
+---
 
 Bot Discord permettant d'envoyer des notifications sur l'état de santé de mon homelab Proxmox.
 
